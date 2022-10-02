@@ -1,0 +1,43 @@
+.header {
+    &__items {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__icons {
+        width: 120px;
+        height: 60px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    &__icon {
+        position: relative;
+        max-width: 22px;
+        max-height: 22px;
+        img {
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+    }
+    &__index {
+        position: absolute;
+        top: -8px;
+        left: 18px;
+        z-index: 1;
+        width: 17px;
+        height: 17px;
+        border-radius: 100%;
+        background-color: #FFA542;
+
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    
+}

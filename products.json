@@ -1,0 +1,74 @@
+{
+    "products_wired" : [
+        {
+            "id" : 0,
+            "img": "img/hp/1.png",
+            "title" : "Apple BYZ S852I",
+            "price": 2927,
+            "rate": 4.7,
+            "prevPrice" : 3527
+        },
+        {
+            "id":1,
+            "img": "img/hp/2.png",
+            "title": "Apple EarPods",
+            "price": 2327,
+            "rate": 4.5
+        },
+        {
+            "id":2,
+            "img": "img/hp/3.png",
+            "title": "Apple EarPods",
+            "price": 2327,
+            "rate": 4.5
+            
+        },
+        {
+            "id":3,
+            "img": "img/hp/4.png",
+            "title": "Apple BYZ S852I",
+            "price": 2927,
+            "rate": 4.7
+            
+        },
+        {
+            "id":4,
+            "img": "img/hp/5.png",
+            "title": "Apple EarPods",
+            "price": 2327,
+            "rate": 4.5,
+            "prevPrice" : 2999
+        },
+        {
+            "id":5,
+            "img": "img/hp/6.png",
+            "title": "Apple EarPods",
+            "price": 2327,
+            "rate": 4.5
+        }
+    ],
+    "products_wireless" : [
+        {
+            "id":6,
+            "img": "img/hp/airPods1.png",
+            "title": "Apple EarPods",
+            "price": 9527,
+            "rate": 4.7
+            
+        },
+        {
+            "id":7,
+            "img": "img/hp/airPods2.png",
+            "title": "GERLAX GH-04",
+            "price": 6527,
+            "rate": 4.7
+        },
+        {
+            "id":8,
+            "img": "img/hp/big_hp.png",
+            "title": "BOROFONE BO4",
+            "price": 7527,
+            "rate": 4.7
+        }
+    ]
+}
